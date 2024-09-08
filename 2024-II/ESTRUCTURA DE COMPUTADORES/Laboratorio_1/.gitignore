@@ -1,0 +1,10 @@
+# Ignorar archivos temporales y documentos
+*.docx
+*.pdf
+*.tmp
+
+# Ignorar carpetas específicas
+/2023-II/
+/2024-I/
+/.vscode/
+/.vs/
