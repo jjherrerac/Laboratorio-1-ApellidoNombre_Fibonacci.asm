@@ -1,7 +1,11 @@
-# Ignorar documentos y carpetas innecesarias
+# Ignorar archivos temporales y documentos
 *.docx
 *.pdf
 *.tmp
-/.vscode/
-/2023-II/
-/2024-I/
+*.xlsx
+*.png
+
+# Ignorar carpetas específicas
+.vscode/
+2023-II/
+2024-I/
